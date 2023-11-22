@@ -35,7 +35,8 @@ Create ststic folder , inside the static folder ,create the html
 ```
 
 ## Output:
-![output](MAPS.jpg)
+![MAPS](https://github.com/RAVENPRAVIN/places-around-me/assets/146820534/8eba7934-e67a-4dcb-a2e2-d14ef0b57504)
+
 
 ## Result:
 The web page places around me has run successfully
